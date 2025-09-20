@@ -5,21 +5,22 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
 -------------------------------
 
 ## Schweizer Datenschutzgesetz  
-Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?
-
-In welchenFällenmüssenVerantwortlichemitSitz imAusland einenSchweiz-Vertreterbenennen?
-
-Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?
-
-Welche Anforderungen sollte ein geeigneter Schweiz-Vertretermitbringen? Nennen Sie mindestens  drei.
-
-Welche Aufgaben hat ein Schweiz-Vertreter gemäß Artikel 15 des DSG?
-
-Wer haftet bei Datenschutzverstößen — der Verantwortliche oder der Schweiz-Vertreter? Und in welchem Verhältnis?
-
-Was regelt das Obligationenrecht (OR) in Bezug auf die vertragliche Beziehung zwischen Verantwortlichem und Schweiz-Vertreter?
-
-Welche Bedeutung hat die Wahl eines fachlich und sprachlich geeigneten Schweiz-Vertreters – insbesondere im Hinblick auf die Reputation eines Unternehmens?
+- Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?
+  Am 1. September 2023
+- In welchenFällenmüssenVerantwortlichemitSitz imAusland einenSchweiz-Vertreterbenennen?
+  Wenn sie personenbezogene Daten von Personen in der Schweiz verarbeiten und dies im Zusammenhang mit einem Angebot von Waren oder Dienstleistungen, mit einer umfangreichen Bearbeitung, regelmäßigen Bearbeitung oder bei hohem Risiko für die betroffenen Personen geschieht. Außerdem kann der EDÖB im Einzelfall eine Vertretung anordnen.
+- Wer ist von der PflichtzurBestellungeinesSchweiz-Vertretersausgenommen?
+  Behörden, öffentliche Stellen und Auftragsbearbeiter. Für private Verantwortliche gelten Ausnahmen nur, wenn die Datenbearbeitung nur gelegentlich, nicht umfangreich ist oder kein hohes Risiko darstellt – und nur, wenn all ihre Datenbearbeitungen diese Bedingungen erfüllen.
+- Welche Anforderungen sollte ein geeigneter Schweiz-Vertretermitbringen? Nennen Sie mindestens  drei.
+  sehr gute Kenntnisse des Schweizer Datenschutzrechts (DSG, DSV, VDSZ), der DSGVO, Informations- und IT-Sicherheit; praktische Erfahrung mit Behördenschnittstellen; Sprachkenntnisse in Deutsch, Französisch, Italienisch und Rätoromanisch.
+- Welche Aufgaben hat ein Schweiz-Vertreter gemäß Artikel 15 des DSG?
+  Er ist zentrale Anlaufstelle für Betroffene und den EDÖB, kann rechtswirksam Erklärungen abgeben oder empfangen; er hat Informationen zur Aufklärung bereitzustellen, sonst drohen Sanktionen; zudem muss er ein Verzeichnis der Bearbeitungstätigkeiten führen.
+- Wer haftet bei Datenschutzverstößen — der Verantwortliche oder der Schweiz-Vertreter? Und in welchem Verhältnis?
+  Im Außenverhältnis haftet grundsätzlich der Verantwortliche; der Schweiz-Vertreter kann im Innenverhältnis vertraglich haftbar gemacht werden, falls er gegen seine Vereinbarung mit dem Verantwortlichen verstößt.
+- Was regelt das Obligationenrecht (OR) in Bezug auf die vertragliche Beziehung zwischen Verantwortlichem und Schweiz-Vertreter?
+  Nach Art. 394 ff. OR ist der Vertreter zu sorgfältigem Handeln verpflichtet und muss persönliche und organisatorische Fähigkeit zur Wahrnehmung seiner Vertretungspflichten haben.
+- Welche Bedeutung hat die Wahl eines fachlich und sprachlich geeigneten Schweiz-Vertreters – insbesondere im Hinblick auf die Reputation eines Unternehmens?
+  Der Schweiz-Vertreter ist erste Anlaufstelle bei Behörden und Betroffenen; daher beeinflusst seine juristische Professionalität, Kommunikationsfähigkeit und Verständnis für Datenflüsse die Wahrnehmung des Unternehmens im wichtigen Schweizer Markt stark.
 
 -----
 
@@ -93,6 +94,16 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
   im Abo-Modell.
 
 ------
+
+## Datensicherheit & Datenschutz
+
+**Datensicherheit**
+
+**Datenschutz**
+
+**Unterschied**
+
+-------
 
 ## CIA TRIAD  
 **C, Confidentiality**  
