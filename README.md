@@ -103,10 +103,15 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 
 ## Datensicherheit & Datenschutz
 **Datensicherheit**  
-Technische 
+- Schützt Daten der Menschen und Dienstleistungen
+- Datensicherheits-Dreieck (CIA Triad)
+- technischen Schutz: Verlust, unbefugtem Zugriff
+- Beispiele: Firewall/Virenschutz, Backups  
 **Datenschutz**  
-
-**Unterschied**  
+- Schützt die Persönlichkeitsrechte von Menschen -> personenbezogene Daten
+- regelt, welche Daten gespeichert/verarbeitet werden dürfen
+- Gesetzt nDSG(CH) & DSGVO(EU)
+- Recht auf Auskunft, Berechtigung oder Löschung der Daten, Einwilligung holen 
 
 -------
 
