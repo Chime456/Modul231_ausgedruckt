@@ -1,9 +1,4 @@
 # DATENSCHUTZ UND DATENSICHERHEIT ANWENDEN
-**Wie lange braucht es um diese Passwörter zu knacken?**
-Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die Sonderzeichen, Gross- und Kleinbuchstaben und Zahlen. Wichtig ist keine persönliche Angaben/Daten als Passwort nehmen, da man es schnell herausfinden kann.
-
--------------------------------
-
 ## Schweizer Datenschutzgesetz  
 - Wann tritt das neue Schweizer Datenschutzgesetz(DSG) in Kraft?
   Am 1. September 2023
@@ -21,6 +16,18 @@ Ein gutes Passwort sollte mindestens acht zeichen lang sein, zudem gehört die S
   Nach Art. 394 ff. OR ist der Vertreter zu sorgfältigem Handeln verpflichtet und muss persönliche und organisatorische Fähigkeit zur Wahrnehmung seiner Vertretungspflichten haben.
 - Welche Bedeutung hat die Wahl eines fachlich und sprachlich geeigneten Schweiz-Vertreters – insbesondere im Hinblick auf die Reputation eines Unternehmens?
   Der Schweiz-Vertreter ist erste Anlaufstelle bei Behörden und Betroffenen; daher beeinflusst seine juristische Professionalität, Kommunikationsfähigkeit und Verständnis für Datenflüsse die Wahrnehmung des Unternehmens im wichtigen Schweizer Markt stark.
+
+## EMRK (Europäische Menschenrechtskonvention)
+- Die Schweiz ist Vertragsstaat der EMRK
+- Bildet die menschenrechtliche Basis für den Datenschutz in Europa
+## DSGVO (Datenschutz-Grundverordnung der EU)
+- Für schweizerische Unternehmen relevant, wenn Sie: Waren / Dienstleistungen an Personen in der EU anbieten
+- Der nDSG ist der DSGVO angenähert, um die EU-Angemessenheit der Schweiz zu sichern - gleichwertiger Datenschutzniveau.
+## EDÖB (Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftrager)
+- schützt persönliche Daten der Menschen
+- überprüft, ob Firmen und Behörden sich an die Datenschutzgesetze halten
+- gibt Tipps und Hilfe, wie man Daten richtig schützt
+- wenn Daten falsch benutzt-/gestohlen werden, greifen sie ein
 
 -----
 
@@ -82,8 +89,7 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 
 **Welches Lizenz-Modell wird angewendet, wenn man...**  
 * **...im App-Store eine zu bezahlende App heunterlädt und installiert?** 
-  Meist eine Node-Locked/Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist
-  dauerhaft für Ihr Konto.
+  Meist eine Node-Locked/Named-User-Lizenz oder Device-Lizenz. Sie kaufen ein Nutzungsrecht, meist dauerhaft für Ihr Konto.
 * **...im App-Store eine Gratis-App heunterlädt und installiert?**  
   Meist Freeware oder Freemium-Lizenz. Basisnutzung kostenlos, ggf. Werbung oder In-App-Käufe.
 * **Haben Sie die Software bezahlt, als Sie ihr aktuelles Smartphone gekauft/bekommen haben?**  
@@ -96,12 +102,11 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 ------
 
 ## Datensicherheit & Datenschutz
+**Datensicherheit**  
+Technische 
+**Datenschutz**  
 
-**Datensicherheit**
-
-**Datenschutz**
-
-**Unterschied**
+**Unterschied**  
 
 -------
 
@@ -125,8 +130,17 @@ Verfügbarkeit:
 
 ## Cookies & Dark Patterns
 
-
-
+**Cookies**  
+- speichert Informationen über den Nutzer und die Nutzung
+- kleine Textdateien
+- kann hilfreich sein und ist hilfreich beim tracking
+- first-party: kommen direkt von der Website, die du besuchst.
+- Third-Party: Kommen von anderen Anbietern (z. B. Werbeanzeigen).  
+**Darkpatterns**
+- Design-Tricks für Websiten und Apps
+- Manipulation, durch versteckte Optionen oder verwirrende Texte
+- ist so gestaltet, dass die Anbieter profitieren und nicht die Nutzer
+- Beipspiel: "Alle Akzeptieren" ist gross, "Ablehnen" ist klein und fast nicht ersichtlich
 
 -------
 
@@ -173,7 +187,7 @@ graph TD;
 ```
 **Verschlüsselungstechnologien**  
 Zahlentheorie: Verschlüsselung im Internet
-RSA Algorithmus: 
+RSA Algorithmus 
 
 ## Caesar Verschlüsselung (Verfahren)  
 Geheimbotschaft übermitteln
@@ -202,4 +216,35 @@ Informatik
 QYXAEULLUX  
 Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 
-## Hash-Funktion in ihrer Basis
+---------
+
+## Hash-Funktion
+- Eine Hashfunktion ist wie eine Maschine, die aus beliebigen Daten (z. B. Text, Datei) eine feste, kurze Zeichenfolge macht.
+- Diese Zeichenfolge nennt man Hashwert oder Digest.
+- Unterschiedliche Eingaben → möglichst unterschiedlicher Hashwert.
+- Hashwerte haben meist eine feste Länge (z. B. 64 Zeichen), egal wie groß die Eingabe ist.
+- Hashfunktionen sind nicht umkehrbar: Man kann aus dem Hashwert nicht zurückrechnen, was die Eingabe war.
+- Kollisionsresistent: nicht möglich, zwei unterschiedliche eingabewere zu finden, die einen identischen Hash ergeben
+- Einwegfunktion: nicht möglich, aus dem Hash den Eingabewert zu rekonstruieren
+Wichtige Nutzung: Daten schnell vergleichen (Prüfsummen), Passwörter sicher speichern, Datenintegrität prüfen (hat sich etwas verändert?)
+- Hashfunktionen machen aus großen Daten einen kleinen, einzigartigen Fingerabdruck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
