@@ -30,9 +30,7 @@
 - wenn Daten falsch benutzt-/gestohlen werden, greifen sie ein
 
 -----
-
 ## LIZENZMODELLE
-
 ### Lizenz  
 Eine Lizenz ist eine vertragliche Erlaubnis, etwas zu nutzen, was einem nicht selbst gehört.  
 Im Bereich Software bedeutet das: Man kauft nicht das Programm selbst, sondern nur das Nutzungsrecht daran. Der Hersteller bleibt Eigentümer, der Nutzer darf die Software in einem bestimmten Rahmen verwenden (z.B. nur auf einem Gerät, für eine bestimmte Zeit oder nur für private Zwecke).  
@@ -100,7 +98,6 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
   im Abo-Modell.
 
 ------
-
 ## Datensicherheit & Datenschutz
 **Datensicherheit**  
 - Schützt Daten der Menschen und Dienstleistungen
@@ -114,7 +111,6 @@ Open Source bedeutet: Der Quellcode einer Software ist frei zugänglich. Jeder d
 - Recht auf Auskunft, Berechtigung oder Löschung der Daten, Einwilligung holen 
 
 -------
-
 ## CIA TRIAD  
 **C, Confidentiality**  
 Vertraulichkeit:  
@@ -132,9 +128,7 @@ Verfügbarkeit:
 **Beispiel**: Zum Beispiel der Einsatz von Cloud-Diensten. Diese sorgen dafür, dass Daten und Anwendungen auch dann verfügbar bleiben, wenn ein Server ausfällt, da sie automatisch auf andere Server umleiten können.  
 
 ------
-
 ## Cookies & Dark Patterns
-
 **Cookies**  
 - speichert Informationen über den Nutzer und die Nutzung
 - kleine Textdateien
@@ -148,7 +142,6 @@ Verfügbarkeit:
 - Beipspiel: "Alle Akzeptieren" ist gross, "Ablehnen" ist klein und fast nicht ersichtlich
 
 -------
-
 ## Markdown, MERMAID  
 ```mermaid
 mindmap
@@ -192,23 +185,17 @@ graph TD;
 ```
 **Verschlüsselungstechnologien**  
 Zahlentheorie: Verschlüsselung im Internet
-RSA Algorithmus 
-
+RSA Algorithmus  
 ## Caesar Verschlüsselung (Verfahren)  
 Geheimbotschaft übermitteln
-**2 Scheibe**
-
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6a01a97e-721f-409a-af1d-8b54a1e2a739" />
-
-Jeder Buchstabe wird um einer bestimmer Zahl verschoben.
-
+**2 Scheibe**  
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6a01a97e-721f-409a-af1d-8b54a1e2a739" />  
+Jeder Buchstabe wird um einer bestimmer Zahl verschoben.  
 Bei der Methode von Julius Caesart sind 3 Buchstabe voraus.  
 __Beispiel_  
 Klartext:        Ich liebe dich  
 Geheimbotschaft: LFKOLHEHGLFK  
-
 Entschlüsselung: 3 Buchstabe zurück  
-
 ## Vigenère Code  
 **Tabelle darstellung**  
 Zeile:  Klartext  
@@ -222,7 +209,6 @@ QYXAEULLUX
 Die Leertasten werden nicht gezählt und musss zusammengefasst werden
 
 ---------
-
 ## Hash-Funktion
 - Eine Hashfunktion ist wie eine Maschine, die aus beliebigen Daten (z. B. Text, Datei) eine feste, kurze Zeichenfolge macht.
 - Diese Zeichenfolge nennt man Hashwert oder Digest.
