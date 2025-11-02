@@ -5,7 +5,7 @@
 - Entschlüsselung: einen geheimen Schlüssel wird definiert, mit der gleichen Schlüssel verwendet der Empfänger den gleichen Algotihmus in umgekehrter Richtung, Ergebnis ist der Klartext
 - Beispiel: Cäsar, Vigenère
 
-<img width="1458" height="763" alt="image" src="https://github.com/user-attachments/assets/646fc6f2-c002-4500-b4d9-0edb4dea02fa" />
+<img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/646fc6f2-c002-4500-b4d9-0edb4dea02fa" />
 
 **Asymmetrische Verschlüsselung**
 - erzeugt ein Schlüsselpaar, besteht aus einem privaten und öffentlichen Schlüssel
